@@ -1,0 +1,13 @@
+body {
+  background: maroon;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+p {
+  font-size: 20px;
+}
